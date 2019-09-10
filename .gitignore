@@ -18,3 +18,12 @@ cabal.sandbox.config
 .stack-work/
 cabal.project.local
 .HTF/
+#
+# Elm
+#
+elm-stuff/
+repl-temp-*
+index.html
+elm.js
+elm.min.js
+

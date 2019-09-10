@@ -1,0 +1,52 @@
+acrobatics:
+  name: 軽業
+  ability: dex
+animalhandling:
+  name: 動物使い
+  ability: wis
+arcana:
+  name: 魔法学
+  ability: int
+athletics:
+  name: 運動
+  ability: str
+deception:
+  name: ペテン
+  ability: cha
+history:
+  name: 歴史
+  ability: int
+insight:
+  name: 看破
+  ability: wis
+intimidation:
+  name: 威圧
+  ability: cha
+investigation:
+  name: 捜査
+  ability: int
+medicine:
+  name: 医術
+  ability: wis
+nature:
+  name: 自然
+  ability: int
+perception:
+  name: 知覚
+  ability: wis
+performance:
+  name: 芸能
+  ability: cha
+religion:
+  name: 宗教
+  ability: int
+sleightofhand:
+  name: 手先の早業
+  ability: dex
+stealth:
+  name: 隠密
+  ability: dex
+survival:
+  name: 生存
+  ability: wis
+
