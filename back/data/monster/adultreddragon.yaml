@@ -1,0 +1,37 @@
+---
+id: adultreddragon
+name: アダルト・レッドドラゴン
+size: huge
+ac: 19
+hitpoint:
+  roll: 19d12+133
+  average: 256
+speed:
+  normal: 40
+  climb: 40
+  fly: 80
+ability:
+  - 27
+  - 10
+  - 25
+  - 16
+  - 13
+  - 21
+savingthrow:
+  - 0
+  - 6
+  - 13
+  - 0
+  - 7
+  - 11
+skills:
+  perception: 13
+  stealth: 6
+language:
+  - common
+  - draconic
+challenge: 17
+exp: 18000
+
+
+

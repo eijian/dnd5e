@@ -1,0 +1,29 @@
+---
+id: skelton
+name: スケルトン
+size: medium
+ac: 13
+hitpoint:
+  roll: 2d8+4
+  average: 13
+speed:
+  normal: 30
+ability:
+  - 10
+  - 14
+  - 15
+  - 6
+  - 8
+  - 5
+savingthrow:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+skills:
+language:
+  - special
+challenge: 0.25
+exp: 50

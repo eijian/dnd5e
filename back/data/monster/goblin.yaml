@@ -1,0 +1,44 @@
+---
+id: goblin
+name: ゴブリン
+size: small
+ac: 15
+hitpoint:
+  roll: 2d6
+  average: 7
+speed:
+  normal: 30
+ability:
+  - 8
+  - 14
+  - 10
+  - 10
+  - 8
+  - 8
+savingthrow:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+skills:
+  stealth: 6
+language:
+  - common
+  - goblin
+action:
+  scimitar:
+    type: melee
+    tohit: 4
+    reach: 5
+    roll: 1d6+2
+    damage: slashing
+  shortbow:
+    type: ranged
+    tohit: 4
+    range: [80, 320]
+    roll: 1d6+2
+    damage: piercing
+challenge: 0.25
+exp: 50
